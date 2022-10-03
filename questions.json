@@ -1,0 +1,520 @@
+{
+  "questions": [
+  {
+  "question 1": "Which two tribes of Israel were not named after sons of Jacob?",
+  "answers": [
+  "",
+  "",
+  "Ephraim and Manesseh.",
+  ""
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question 2": "Who went up yearly to worship God in Shiloh, and one year prayed to God for a baby?",
+  "answers": [
+  "Hannah.",
+  "",
+  "",
+  ""
+  ],
+  "correctIndex": 0
+  },
+  {
+  "question 3": "What did Melchizedek give to Abram?",
+  "answers": [
+  "",
+  "",
+  "Bread and wine.",
+  ""
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question 4": "When the disciples saw Jesus walking on water, what did they think he was?",
+  "answers": [
+  "",
+  "A ghost.",
+  "",
+  ""
+  ],
+  "correctIndex": 1
+  },
+  {
+  "question 5": "Who was Paul with when he wrote the letter to Philemon?",
+  "answers": [
+  "",
+  "Timothy.",
+  "",
+  ""
+  ],
+  "correctIndex": 1
+  },
+  {
+  "question 6": "What happened to King Nebuchadnezzar before being restored as king?",
+  "answers": [
+  "",
+  "",
+  "",
+  "He went mad and lived as a beast."
+  ],
+  "correctIndex": 3
+  },
+  {
+  "question 7": "Who was the father in law of Caiaphas, the high priest at the time of Jesus death?",
+  "answers": [
+  "Annas.",
+  "",
+  "",
+  ""
+  ],
+  "correctIndex": 0
+  },
+  {
+  "question 8": "Who escorted the slave with the letter to Philemon?",
+  "answers": [
+  "",
+  "",
+  "Tychius.",
+  ""
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question 9": "Which missionary was described as having known the holy scriptures from an early age?",
+  "answers": [
+  "",
+  "",
+  "Timothy.",
+  ""
+  ],
+  "correctIndex": 2
+  },
+  {
+  "question 10": "Who was king of the southern kingdom when the northern kingdom of Israel fell to Assyria?",
+  "answers": [
+  "",
+  "",
+  "",
+  "Hezekiah."
+  ],
+  "correctIndex": 3
+  },
+  {
+  "question 11": "Of what, specifically, was man not allowed to eat in the Garden of Eden?",
+  "answers": [
+  "",
+  "Apples, aka the Forbidden Fruit.",
+  "",
+  ""
+  ],
+  "correctIndex": 1
+  },
+  {
+  "question 12": "In which book of the Bible do we find 'Nebuchadnezzar's image'?",
+  "answers": [
+  "",
+  "Daniel",
+  "",
+  ""
+  ],
+  "correctIndex": 1
+  },
+  {
+    "question 13": "What was the name of the woman who hid the spies at Jericho?",
+    "answers": [
+    "Rahab.",
+    "",
+    "",
+    ""
+    ],
+    "correctIndex": 0
+    },
+
+    {
+      "question 14": "What reward did Jesus say the twelve apostles would get for forsaking everything and following him?",
+      "answers": [
+      "",
+      "",
+      "",
+      "Jesus told them “You will sit on twelve thrones judging the twelve tribes of Israel.”"
+      ],
+      "correctIndex": 3
+      },
+
+      {
+        "question 15": "What was the name of the man who requested Jesus’ body for burial?",
+        "answers": [
+        "",
+        "",
+        "Joseph of Arimathea ",
+        ""
+        ],
+        "correctIndex": 2
+        },
+
+        {
+          "question 16": "Which disciple looked after Mary after the death of Jesus?",
+          "answers": [
+          "",
+          "",
+          "John the Evangelist.",
+          ""
+          ],
+          "correctIndex": 2
+          },
+
+          {
+            "question 17": "How many requests are in the Lord’s Prayer?",
+            "answers": [
+            "",
+            "",
+            "",
+            "Seven."
+            ],
+            "correctIndex": 3
+            },
+
+            {
+              "question 18": "What is the 7th petition?",
+              "answers": [
+              "",
+              "",
+              "",
+              "Deliver us from evil."
+              ],
+              "correctIndex": 3
+              },
+
+              {
+                "question 19": "Which human author wrote Galatians?",
+                "answers": [
+                "",
+                "",
+                "Paul.",
+                ""
+                ],
+                "correctIndex": 2
+                },
+
+                {
+                  "question 20": "Where is the Fruit of the Spirit found in the Bible?",
+                  "answers": [
+                  "Galatians 5",
+                  "",
+                  "",
+                  ""
+                  ],
+                  "correctIndex": 0
+                  },
+
+                  {
+                    "question 21": "What is the introduction to the Commandments?",
+                    "answers": [
+                    "",
+                    "I am the LORD your God who brought you out of Egypt.",
+                    "",
+                    ""
+                    ],
+                    "correctIndex": 1
+                    },
+
+                    {
+                      "question 22": "Who went with Paul on his early mission trips?",
+                      "answers": [
+                      "",
+                      "Barnabas",
+                      "",
+                      ""
+                      ],
+                      "correctIndex": 1
+                      },
+
+                      {
+                        "question 23": "In what city were Jesus’ followers first called “Christians”?",
+                        "answers": [
+                        "Antioch.",
+                        "",
+                        "",
+                        ""
+                        ],
+                        "correctIndex": 0
+                        },
+
+                        {
+                          "question 24": "Where did Peter stay during his ministry in the city of Joppa?",
+                          "answers": [
+                          "",
+                          "",
+                          "",
+                          " In the house of Simon the tanner."
+                          ],
+                          "correctIndex": 3
+                          },
+
+                          {
+                            "question 25": "What did Pilate do to “cleanse himself” of the crucifixion?",
+                            "answers": [
+                            "",
+                            "",
+                            "Washed his hands.",
+                            ""
+                            ],
+                            "correctIndex": 2
+                            },
+
+                            {
+                              "question 26": "Name the Roman Governor who sat over Jesus trial",
+                              "answers": [
+                              "",
+                              "",
+                              "",
+                              "Pilate."
+                              ],
+                              "correctIndex": 3
+                              },
+                              {
+                                "question 27": "Who gave Jesus a crown made of thorns?",
+                                "answers": [
+                                "A Roman soldier.",
+                                "",
+                                "",
+                                ""
+                                ],
+                                "correctIndex": 0
+                                },
+                                {
+                                  "question 28": "What garden did Jesus go to when he prayed after the Last Supper?",
+                                  "answers": [
+                                  "Garden of Gethsemane.",
+                                  "",
+                                  "",
+                                  ""
+                                  ],
+                                  "correctIndex": 0
+                                  },
+                                  {
+                                    "question 29": "What problem did Bartimaeus have that Jesus fixed?",
+                                    "answers": [
+                                    "",
+                                    "",
+                                    "",
+                                    "Blindness. "
+                                    ],
+                                    "correctIndex": 3
+                                    },
+                                    {
+                                      "question 30": "Name the demon Jesus cast out in the region of the Gerasenes?",
+                                      "answers": [
+                                      "",
+                                      "",
+                                      "Legion.",
+                                      ""
+                                      ],
+                                      "correctIndex": 2
+                                      },
+                                      {
+                                      "question 31": "How many days was Lazarus dead before Jesus came to visit?",
+                                      "answers": [
+                                      "",
+                                      "",
+                                      "Four days.",
+                                      ""
+                                      ],
+                                      "correctIndex": 2
+                                      },
+                                      {
+                                      "question 32": "Who let the Israelites return to their homeland?",
+                                      "answers": [
+                                      "Cyrus.",
+                                      "",
+                                      "",
+                                      ""
+                                      ],
+                                      "correctIndex": 0
+                                      },
+                                      {
+                                        "question 33": "Who returned to Israel to build up the walls of Jerusalem?",
+                                        "answers": [
+                                        "",
+                                        "Who returned to Israel to build up the walls of Jerusalem?",
+                                        "",
+                                        ""
+                                        ],
+                                        "correctIndex": 1
+                                        },
+                                        {
+                                          "question 34": "When Saul conquered the Amalekites, what person did he keep as a prisoner instead of killing like God said to?",
+                                          "answers": [
+                                          "The king, Agag. ",
+                                          "",
+                                          "",
+                                          ""
+                                          ],
+                                          "correctIndex": 0
+                                          },
+                                          {
+                                            "question 35": "Who was the judge who defeated the Midianites with only 300 men using torches and horns?",
+                                            "answers": [
+                                            "",
+                                            "Gideon.",
+                                            "",
+                                            ""
+                                            ],
+                                            "correctIndex": 1
+                                            },
+                                            {
+                                              "question 36": "What did God change Jacob’s name to before his meeting with Esau?",
+                                              "answers": [
+                                              "",
+                                              "",
+                                              "Israel.",
+                                              ""
+                                              ],
+                                              "correctIndex": 2
+                                              },
+                                              {
+                                                "question 37": "Who was Abram’s handmaid?",
+                                                "answers": [
+                                                "",
+                                                "",
+                                                "",
+                                                "Hagar."
+                                                ],
+                                                "correctIndex": 3
+                                                },
+                                                {
+                                                  "question 38": "How did God make people spread out across the earth?",
+                                                  "answers": [
+                                                  "Confused their languages.",
+                                                  "",
+                                                  "",
+                                                  ""
+                                                  ],
+                                                  "correctIndex": 0
+                                                  },
+                                                  {
+                                                    "question 39": "In what language was most of the Old Testament given?",
+                                                    "answers": [
+                                                    "Hebrew.",
+                                                    "",
+                                                    "",
+                                                    ""
+                                                    ],
+                                                    "correctIndex": 0
+                                                    },
+                                                    {
+                                                      "question 40": " In what language was most of the New Testament given?",
+                                                      "answers": [
+                                                      "",
+                                                      "Greek.",
+                                                      "",
+                                                      ""
+                                                      ],
+                                                      "correctIndex": 1
+                                                      },
+                                                      {
+                                                        "question 41": "What is the shortest book in the Bible?",
+                                                        "answers": [
+                                                        "",
+                                                        "John.",
+                                                        "",
+                                                        ""
+                                                        ],
+                                                        "correctIndex": 1
+                                                        },
+                                                        {
+                                                          "question 42": "Who was the woman judge who led Israel to victory?",
+                                                          "answers": [
+                                                          "",
+                                                          "",
+                                                          "Deborah",
+                                                          ""
+                                                          ],
+                                                          "correctIndex": 2
+                                                          },
+                                                          {
+                                                            "question 43": "Who was the enemy who took the Ark of the Covenant?",
+                                                            "answers": [
+                                                            "",
+                                                            "",
+                                                            "Philistines.",
+                                                            ""
+                                                            ],
+                                                            "correctIndex": 2
+                                                            },
+                                                            {
+                                                              "question 44": "When the Philistines came to attack the Israelites, who mocked God and challenged them?",
+                                                              "answers": [
+                                                              "",
+                                                              "",
+                                                              "",
+                                                              "When the Philistines came to attack the Israelites, who mocked God and challenged them?"
+                                                              ],
+                                                              "correctIndex": 3
+                                                              },
+                                                              {
+                                                                "question 45": "When Shadrach, Meshach, Abednego refused to bow to an idol, where were they thrown?",
+                                                                "answers": [
+                                                                "",
+                                                                "",
+                                                                "",
+                                                                "Into a fiery furnace."
+                                                                ],
+                                                                "correctIndex": 3
+                                                                },
+                                                                {
+                                                                  "question 46": "Who returned to Israel to build up the walls of Jerusalem?",
+                                                                  "answers": [
+                                                                  "",
+                                                                  "",
+                                                                  "Nehemiah",
+                                                                  ""
+                                                                  ],
+                                                                  "correctIndex": 2
+                                                                  },
+                                                                  {
+                                                                    "question 47": "Which member of the Jewish ruling council came to ask Jesus questions at night?",
+                                                                    "answers": [
+                                                                    "",
+                                                                    "Nicodemus",
+                                                                    "",
+                                                                    ""
+                                                                    ],
+                                                                    "correctIndex": 1
+                                                                    },
+                                                                    {
+                                                                      "question 48": "What was another name for the Apostle Paul?",
+                                                                      "answers": [
+                                                                      "Saul of Tarsus",
+                                                                      "",
+                                                                      "",
+                                                                      ""
+                                                                      ],
+                                                                      "correctIndex": 0
+                                                                      },
+                                                                      {
+                                                                        "question 49": "Which Apostle took the Gospel to the city of Samaria?",
+                                                                        "answers": [
+                                                                        "",
+                                                                        "",
+                                                                        "",
+                                                                        "Philip."
+                                                                        ],
+                                                                        "correctIndex": 3
+                                                                        },
+                                                                        {
+                                                                          "question 50": "Where can you find the 10 commandments in the Bible?",
+                                                                          "answers": [
+                                                                          "",
+                                                                          "",
+                                                                          "Exodus 20 and Deuteronomy 5.",
+                                                                          ""
+                                                                          ],
+                                                                          "correctIndex": 2
+                                                                          }
+
+
+
+]
+}
